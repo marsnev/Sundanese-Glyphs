@@ -123,6 +123,12 @@
 							);
 						},
 						{
+							name = "Sign";
+							coverage = (
+								avagraha-sunda
+							);
+						},
+						{
 							name = "Old Punctuations";
 							coverage = (
 								binduBaSatanga-sunda,
