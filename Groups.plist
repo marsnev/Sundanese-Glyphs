@@ -1,0 +1,143 @@
+{
+	categories = (
+		{
+			name = "Compatibility";
+			icon = compatibilityTemplate;
+			subGroup = (
+				{
+					name = "Web";
+					coverage = (
+						.notdef,
+						hyphen,
+						space
+					);
+				},
+				{
+					name = "Windows";
+					coverage = (
+						nbspace,
+						softhyphen
+					);
+				}
+			);
+		},
+	);
+	languages = (
+		{
+			name = "Southeast Asia";
+			subGroup = (
+				{
+					name = "Sundanese";
+					icon = SundaneseTemplate;
+					predicate = "script == \"sundanese\"";
+					subGroup = (
+						{
+							name = "Vowels";
+							coverage = (
+								a-sunda,
+								ae-sunda,
+								e-sunda,
+								eu-sunda,
+								i-sunda,
+								o-sunda,
+								u-sunda
+							);
+						},
+						{
+							name = "Consonants";
+							coverage = (
+								ba-sunda,
+								ca-sunda,
+								da-sunda,
+								fa-sunda,
+								ga-sunda,
+								ha-sunda,
+								ja-sunda,
+								ka-sunda,
+								kha-sunda,
+								la-sunda,
+								ma-sunda,
+								na-sunda,
+								nga-sunda,
+								nya-sunda,
+								pa-sunda,
+								qa-sunda,
+								ra-sunda,
+								sa-sunda,
+								sya-sunda,
+								ta-sunda,
+								va-sunda,
+								wa-sunda,
+								xa-sunda,
+								ya-sunda,
+								za-sunda
+								
+							);
+						},
+						{
+							name = "Numerals";
+							coverage = (
+								zero-sunda,
+								one-sunda,
+								two-sunda,
+								three-sunda,
+								four-sunda,
+								five-sunda,
+								six-sunda,
+								seven-sunda,
+								eight-sunda,
+								nine-sunda
+								
+							);
+						},
+						{
+							name = "Historical";
+							coverage = (
+								bha-sunda,
+								kFinal-sunda,
+								leu-sunda,
+								mFinal-sunda,
+								reu-sunda
+								
+							);
+						},
+						{
+							name = "Marks";
+							coverage = (
+								pamaaeh-sunda,
+								pamepet-sunda,
+								pamingkal-sunda,
+								panaelaeng-sunda,
+								paneuleung-sunda,
+								panghulu-sunda,
+								panglayar-sunda,
+								pangwisad-sunda,
+								panolong-sunda,
+								panyakra-sunda,
+								panyecek-sunda,
+								panyiku-sunda,
+								panyuku-sunda,
+								pasanganMa-sunda,
+								pasanganWa-sunda,
+								virama-sunda
+							);
+						},
+						{
+							name = "Old Punctuations";
+							coverage = (
+								binduBaSatanga-sunda,
+								binduCakra-sunda,
+								binduDaSatanga-sunda,
+								binduKaSatanga-sunda,
+								binduLeuSatanga-sunda,
+								binduPanglong-sunda,
+								binduPurnama-sunda,
+								binduSurya-sunda
+							);
+						}
+					);
+				},
+			);
+		}
+	);
+}

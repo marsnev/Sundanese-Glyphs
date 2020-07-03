@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE glyphData [
+<!ELEMENT glyphData (glyph)+>
+<!ELEMENT glyph EMPTY>
+<!ATTLIST glyph
+	unicode			CDATA		#IMPLIED
+	unicodeLegecy	CDATA		#IMPLIED
+	name			CDATA		#REQUIRED
+	sortName		CDATA		#IMPLIED
+	sortNameKeep	CDATA		#IMPLIED
+	category		CDATA		#REQUIRED
+	subCategory		CDATA		#IMPLIED
+	script			CDATA		#IMPLIED
+	description		CDATA		#IMPLIED
+	production		CDATA		#IMPLIED
+	altNames		CDATA		#IMPLIED
+	decompose		CDATA		#IMPLIED
+	anchors			CDATA		#IMPLIED
+	accents			CDATA		#IMPLIED>
+]>
+<glyphData>
+	<glyph unicode="1B80" name="panyecek-sunda" category="Mark" subCategory="Nonspacing" script="sundanese" production="uni1B80" description="SUNDANESE SIGN PANYECEK" anchors="_top" />
+	<glyph unicode="1B81" name="panglayar-sunda" category="Mark" subCategory="Nonspacing" script="sundanese" production="uni1B81" description="SUNDANESE SIGN PANGLAYAR" anchors="_top" />
+	<glyph unicode="1B82" name="pangwisad-sunda" category="Mark" subCategory="Spacing Combining" script="sundanese" production="uni1B82" description="SUNDANESE SIGN PANGWISAD" />
+	<glyph unicode="1B83" name="a-sunda" category="Letter" script="sundanese" production="uni1B83" description="SUNDANESE LETTER A" anchors="top, bottom" accents="panyecek-sunda, panglayar-sunda, panyakra-sunda" />
+	<glyph unicode="1B84" name="i-sunda" category="Letter" script="sundanese" production="uni1B84" description="SUNDANESE LETTER I" anchors="top, bottom" accents="=a-sunda" />
+	<glyph unicode="1B85" name="u-sunda" category="Letter" script="sundanese" production="uni1B85" description="SUNDANESE LETTER U" anchors="top, bottom" accents="=a-sunda" />
+	<glyph unicode="1B86" name="ae-sunda" category="Letter" script="sundanese" production="uni1B86" description="SUNDANESE LETTER AE" anchors="top, bottom" accents="=a-sunda" />
+	<glyph unicode="1B87" name="o-sunda" category="Letter" script="sundanese" production="uni1B87" description="SUNDANESE LETTER O" anchors="top, bottom" accents="=a-sunda" />
+	<glyph unicode="1B88" name="e-sunda" category="Letter" script="sundanese" production="uni1B88" description="SUNDANESE LETTER E" anchors="top, bottom" accents="=a-sunda" />
+	<glyph unicode="1B89" name="eu-sunda" category="Letter" script="sundanese" production="uni1B89" description="SUNDANESE LETTER EU" anchors="top, bottom" accents="=a-sunda" />
+	<glyph unicode="1B8A" name="ka-sunda" category="Letter" script="sundanese" production="uni1B8A" description="SUNDANESE LETTER KA" anchors="top, bottom" accents="panyecek-sunda, panglayar-sunda, pamingkal-sunda, panyakra-sunda, panyiku-sunda, panghulu-sunda, panyuku-sunda, pamepet-sunda, paneuleung-sunda, pasanganMa-sunda, pasanganWa-sunda, panyakra_panyuku-sunda, panyiku_panyuku-sunda, panghulu_panyecek-sunda, panghulu_panglayar-sunda, pamepet_panyecek-sunda, pamepet_panglayar-sunda, paneuleung_panyecek-sunda, paneuleung-panglayar-sunda" />
+	<glyph unicode="1B8B" name="qa-sunda" category="Letter" script="sundanese" production="uni1B8B" description="SUNDANESE LETTER QA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1B8C" name="ga-sunda" category="Letter" script="sundanese" production="uni1B8C" description="SUNDANESE LETTER GA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1B8D" name="nga-sunda" category="Letter" script="sundanese" production="uni1B8D" description="SUNDANESE LETTER NGA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1B8E" name="ca-sunda" category="Letter" script="sundanese" production="uni1B8E" description="SUNDANESE LETTER CA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1B8F" name="ja-sunda" category="Letter" script="sundanese" production="uni1B8F" description="SUNDANESE LETTER JA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1B90" name="za-sunda" category="Letter" script="sundanese" production="uni1B90" description="SUNDANESE LETTER ZA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1B91" name="nya-sunda" category="Letter" script="sundanese" production="uni1B91" description="SUNDANESE LETTER NYA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1B92" name="ta-sunda" category="Letter" script="sundanese" production="uni1B92" description="SUNDANESE LETTER TA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1B93" name="da-sunda" category="Letter" script="sundanese" production="uni1B93" description="SUNDANESE LETTER DA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1B94" name="na-sunda" category="Letter" script="sundanese" production="uni1B94" description="SUNDANESE LETTER NA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1B95" name="pa-sunda" category="Letter" script="sundanese" production="uni1B95" description="SUNDANESE LETTER PA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1B96" name="fa-sunda" category="Letter" script="sundanese" production="uni1B96" description="SUNDANESE LETTER FA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1B97" name="va-sunda" category="Letter" script="sundanese" production="uni1B97" description="SUNDANESE LETTER VA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1B98" name="ba-sunda" category="Letter" script="sundanese" production="uni1B98" description="SUNDANESE LETTER BA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1B99" name="ma-sunda" category="Letter" script="sundanese" production="uni1B99" description="SUNDANESE LETTER MA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1B9A" name="ya-sunda" category="Letter" script="sundanese" production="uni1B9A" description="SUNDANESE LETTER YA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1B9B" name="ra-sunda" category="Letter" script="sundanese" production="uni1B9B" description="SUNDANESE LETTER RA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1B9C" name="la-sunda" category="Letter" script="sundanese" production="uni1B9C" description="SUNDANESE LETTER LA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1B9D" name="wa-sunda" category="Letter" script="sundanese" production="uni1B9D" description="SUNDANESE LETTER WA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1B9E" name="sa-sunda" category="Letter" script="sundanese" production="uni1B9E" description="SUNDANESE LETTER SA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1B9F" name="xa-sunda" category="Letter" script="sundanese" production="uni1B9F" description="SUNDANESE LETTER XA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1BA0" name="ha-sunda" category="Letter" script="sundanese" production="uni1BA0" description="SUNDANESE LETTER HA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1BA1" name="pamingkal-sunda" category="Mark" subCategory="Spacing Combining" script="sundanese" production="uni1BA1" description="SUNDANESE CONSONANT SIGN PAMINGKAL" />
+	<glyph unicode="1BA2" name="panyakra-sunda" category="Mark" subCategory="Nonspacing" script="sundanese" production="uni1BA2" description="SUNDANESE CONSONANT SIGN PANYAKRA" anchors="_bottom" />
+	<glyph unicode="1BA3" name="panyiku-sunda" category="Mark" subCategory="Nonspacing" script="sundanese" production="uni1BA3" description="SUNDANESE CONSONANT SIGN PANYIKU" anchors="_bottom" />
+	<glyph unicode="1BA4" name="panghulu-sunda" category="Mark" subCategory="Nonspacing" script="sundanese" production="uni1BA4" description="SUNDANESE VOWEL SIGN PANGHULU" anchors="_top" />
+	<glyph unicode="1BA5" name="panyuku-sunda" category="Mark" subCategory="Nonspacing" script="sundanese" production="uni1BA5" description="SUNDANESE VOWEL SIGN PANYUKU" anchors="_bottom" />
+	<glyph unicode="1BA6" name="panaelaeng-sunda" category="Mark" subCategory="Spacing Combining" script="sundanese" production="uni1BA6" description="SUNDANESE VOWEL SIGN PANAELAENG" />
+	<glyph unicode="1BA7" name="panolong-sunda" category="Mark" subCategory="Spacing Combining" script="sundanese" production="uni1BA7" description="SUNDANESE VOWEL SIGN PANOLONG" />
+	<glyph unicode="1BA8" name="pamepet-sunda" category="Mark" subCategory="Nonspacing" script="sundanese" production="uni1BA8" description="SUNDANESE VOWEL SIGN PAMEPET" anchors="_top" />
+	<glyph unicode="1BA9" name="paneuleung-sunda" category="Mark" subCategory="Nonspacing" script="sundanese" production="uni1BA9" description="SUNDANESE VOWEL SIGN PANEULEUNG" anchors="_top" />
+	<glyph unicode="1BAA" name="pamaaeh-sunda" category="Mark" subCategory="Spacing Combining" script="sundanese" production="uni1BAA" description="SUNDANESE SIGN PAMAAEH" />
+	<glyph unicode="1BAB" name="virama-sunda" category="Mark" subCategory="Nonspacing" script="sundanese" production="uni1BAB" description="SUNDANESE SIGN VIRAMA" anchors="_bottom" />
+	<glyph unicode="1BAC" name="pasanganMa-sunda" category="Mark" subCategory="Nonspacing" script="sundanese" production="uni1BAC" description="SUNDANESE CONSONANT SIGN PASANGAN MA" anchors="_bottom, bottom" />
+	<glyph unicode="1BAD" name="pasanganWa-sunda" category="Mark" subCategory="Nonspacing" script="sundanese" production="uni1BAD" description="SUNDANESE CONSONANT SIGN PASANGAN WA" anchors="_bottom, bottom" />
+	<glyph unicode="1BAE" name="kha-sunda" category="Letter" script="sundanese" production="uni1BAE" description="SUNDANESE LETTER KHA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1BAF" name="sya-sunda" category="Letter" script="sundanese" production="uni1BAF" description="SUNDANESE LETTER SYA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1BB0" name="zero-sunda" sortName="n01" category="Number" subCategory="Decimal Digit" script="sundanese" production="uni1BB0" description="SUNDANESE DIGIT ZERO" />
+	<glyph unicode="1BB1" name="one-sunda" sortName="n02" category="Number" subCategory="Decimal Digit" script="sundanese" production="uni1BB1" description="SUNDANESE DIGIT ONE" />
+	<glyph unicode="1BB2" name="two-sunda" sortName="n03" category="Number" subCategory="Decimal Digit" script="sundanese" production="uni1BB2" description="SUNDANESE DIGIT TWO" />
+	<glyph unicode="1BB3" name="three-sunda" sortName="n04" category="Number" subCategory="Decimal Digit" script="sundanese" production="uni1BB3" description="SUNDANESE DIGIT THREE" />
+	<glyph unicode="1BB4" name="four-sunda" sortName="n04" category="Number" subCategory="Decimal Digit" script="sundanese" production="uni1BB4" description="SUNDANESE DIGIT FOUR" />
+	<glyph unicode="1BB5" name="five-sunda" sortName="n05" category="Number" subCategory="Decimal Digit" script="sundanese" production="uni1BB5" description="SUNDANESE DIGIT FIVE" />
+	<glyph unicode="1BB6" name="six-sunda" sortName="n06" category="Number" subCategory="Decimal Digit" script="sundanese" production="uni1BB6" description="SUNDANESE DIGIT SIX" />
+	<glyph unicode="1BB7" name="seven-sunda" sortName="n07" category="Number" subCategory="Decimal Digit" script="sundanese" production="uni1BB7" description="SUNDANESE DIGIT SEVEN" />
+	<glyph unicode="1BB8" name="eight-sunda" sortName="n08" category="Number" subCategory="Decimal Digit" script="sundanese" production="uni1BB8" description="SUNDANESE DIGIT EIGHT" />
+	<glyph unicode="1BB9" name="nine-sunda" sortName="n09" category="Number" subCategory="Decimal Digit" script="sundanese" production="uni1BB9" description="SUNDANESE DIGIT NINE" />
+	<glyph unicode="1BBA" name="avagraha-sunda" category="Letter" script="sundanese" production="uni1BBA" description="SUNDANESE AVAGRAHA" />
+	<glyph unicode="1BBB" name="reu-sunda" category="Letter" script="sundanese" production="uni1BBB" description="SUNDANESE LETTER REU" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1BBC" name="leu-sunda" category="Letter" script="sundanese" production="uni1BBC" description="SUNDANESE LETTER LEU" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1BBD" name="bha-sunda" category="Letter" script="sundanese" production="uni1BBD" description="SUNDANESE LETTER BHA" anchors="top, bottom" accents="=ka-sunda" />
+	<glyph unicode="1BBE" name="kFinal-sunda" category="Letter" script="sundanese" production="uni1BBE" description="SUNDANESE LETTER FINAL K" />
+	<glyph unicode="1BBF" name="mFinal-sunda" category="Letter" script="sundanese" production="uni1BBF" description="SUNDANESE LETTER FINAL M" />
+	<glyph unicode="1CC0" name="binduSurya-sunda" category="Punctuation" script="sundanese" production="uni1CC0" description="SUNDANESE PUNCTUATION BINDU SURYA" />
+	<glyph unicode="1CC1" name="binduPanglong-sunda" category="Punctuation" script="sundanese" production="uni1CC1" description="SUNDANESE PUNCTUATION BINDU PANGLONG" />
+	<glyph unicode="1CC2" name="binduPurnama-sunda" category="Punctuation" script="sundanese" production="uni1CC2" description="SUNDANESE PUNCTUATION BINDU PURNAMA" />
+	<glyph unicode="1CC3" name="binduCakra-sunda" category="Punctuation" script="sundanese" production="uni1CC3" description="SUNDANESE PUNCTUATION BINDU CAKRA" />
+	<glyph unicode="1CC4" name="binduLeuSatanga-sunda" category="Punctuation" script="sundanese" production="uni1CC4" description="SUNDANESE PUNCTUATION BINDU LEU SATANGA" />
+	<glyph unicode="1CC5" name="binduKaSatanga-sunda" category="Punctuation" script="sundanese" production="uni1CC5" description="SUNDANESE PUNCTUATION BINDU KA SATANGA" />
+	<glyph unicode="1CC6" name="binduDaSatanga-sunda" category="Punctuation" script="sundanese" production="uni1CC6" description="SUNDANESE PUNCTUATION BINDU DA SATANGA" />
+	<glyph unicode="1CC7" name="binduBaSatanga-sunda" category="Punctuation" script="sundanese" production="uni1CC7" description="SUNDANESE PUNCTUATION BINDU BA SATANGA" />
+	<glyph name="pamingkal_panyuku-sunda" decompose="pamingkal-sunda, panyuku-sunda" category="Mark" subCategory="Spacing Combining" script="sundanese" production="uni1BA11BA5" anchors="_bottom" />
+	<glyph name="panyakra_panyuku-sunda" decompose="panyakra-sunda, panyuku-sunda" category="Mark" subCategory="Nonspacing" script="sundanese" production="uni1BA21BA5" anchors="_bottom" />
+	<glyph name="panyiku_panyuku-sunda" decompose="panyiku-sunda, panyuku-sunda" category="Mark" subCategory="Nonspacing" script="sundanese" production="uni1BA31BA5" anchors="_bottom" />
+	<glyph name="panghulu_panyecek-sunda" decompose="panghulu-sunda, panyecek-sunda" category="Mark" subCategory="Nonspacing" script="sundanese" production="uni1BA41B80" anchors="_top" />
+	<glyph name="panghulu_panglayar-sunda" decompose="panghulu-sunda, panglayar-sunda" category="Mark" subCategory="Nonspacing" script="sundanese" production="uni1BA41B81" anchors="_top" />
+	<glyph name="pamepet_panyecek-sunda" decompose="pamepet-sunda, panyecek-sunda" category="Mark" subCategory="Nonspacing" script="sundanese" production="uni1BA81B80" anchors="_top" />
+	<glyph name="pamepet_panglayar-sunda" decompose="pamepet-sunda, panglayar-sunda" category="Mark" subCategory="Nonspacing" script="sundanese" production="uni1BA81B81" anchors="_top" />
+	<glyph name="paneuleung_panyecek-sunda" decompose="paneuleung-sunda, panyecek-sunda" category="Mark" subCategory="Nonspacing" script="sundanese" production="uni1BA91B80" anchors="_top" />
+	<glyph name="paneuleung_panglayar-sunda" decompose="paneuleung-sunda, panglayar-sunda" category="Mark" subCategory="Nonspacing" script="sundanese" production="uni1BA91B81" anchors="_top" />
+</glyphData>
